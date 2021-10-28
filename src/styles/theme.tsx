@@ -60,7 +60,6 @@ export const theme = extendTheme({
   },
   styles: {
     global: {
-      html: { background: '#54565a' },
       h1: { color: 'primary.500' },
       p: { color: 'primary.500' },
       body: {
